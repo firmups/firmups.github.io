@@ -1,0 +1,13 @@
+{
+  "name": "firmups-github-io",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "docs:dev": "vitepress dev docs"
+  },
+  "dependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
